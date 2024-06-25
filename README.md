@@ -1,10 +1,5 @@
 ---
-cover: .gitbook/assets/nextjs-icon-svgrepo-com.png
-coverY: 53
 layout:
-  cover:
-    visible: true
-    size: hero
   title:
     visible: true
   description:
@@ -20,3 +15,5 @@ layout:
 # SaaS with Next 15 RC
 
 Trying to build an SaaS with Next 15, React 19, Pusher and Clerk authentication.
+
+<figure><img src=".gitbook/assets/nextjs-icon-svgrepo-com.png" alt=""><figcaption></figcaption></figure>
